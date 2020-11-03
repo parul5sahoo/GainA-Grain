@@ -1,0 +1,29 @@
+{
+  "name": "kickstarter_pro",
+  "version": "1.0.2",
+  "description": "a blockchain-ethereum project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js"
+  },
+  "author": "Parul Sahoo",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.1",
+    "ganache-cli": "^6.12.0",
+    "mocha": "^8.2.0",
+    "net": "^1.0.2",
+    "next": "^4.1.4",
+    "next-routes": "^1.4.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.1",
+    "solc": "^0.4.18",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.0.0-beta.26"
+  }
+}
