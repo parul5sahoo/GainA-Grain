@@ -57,7 +57,7 @@ class CampaignShow extends Component {
       {
         header: approversCount,
         meta: 'Number of approvers',
-        description: 'Number of prople who have already donated to the campaign.',
+        description: 'Number of people who have already donated to the campaign.',
 
       },
       {

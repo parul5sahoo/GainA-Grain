@@ -26,7 +26,7 @@ class RequestIndex extends Component {
      return(
        <RequestRow
              key={index}
-             id = {index}
+             id = {index+1}
              request= {request}
              address ={this.props.address}
              approversCount={this.props.approversCount}
@@ -65,7 +65,7 @@ class RequestIndex extends Component {
               </Body>
 
             </Table>
-            <div> Found {this.props.requestsCount} requests.</div>
+            <div> Found {this.props.requestsCount} request(s).</div>
       </Layout>
 
     );
