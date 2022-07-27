@@ -1,5 +1,7 @@
 # Gain A' Grain
----description---
+
+## Description
+An e-commerce application to help farmers with funding to produce premium quality products.
 
 To Initiate the Development server.
 
