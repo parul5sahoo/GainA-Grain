@@ -5,7 +5,7 @@ const compileFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
   'deliver farm grab aerobic anxiety rival bracket inner bonus trumpet glide table',
-  'https://rinkeby.infura.io/v3/2f799ac6b44046e1a03c8b08b7c0e77b'
+  'https://goerli.infura.io/v3/e92d8fa46f1f40518984e9fb087ebfc8'
 );
 
 const web3 = new Web3(provider);
